@@ -9,4 +9,4 @@ USE CASE:
 For this practice, the code was executed on a local PC running Windows 10 using a pyspark shell. 
 The spark version used was 3.1.1 and the Python3 version used was 3.8.1.
 
-The code used to generate Output_I and Output_II 
+The code used to generate Output_I and Output_II is stored in Assessment2_Script.py and the outputs for Case 1 and Case 2 are also uploaded in this repository.
